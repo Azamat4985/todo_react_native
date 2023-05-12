@@ -1,0 +1,9 @@
+export const THEME = {
+    BACKGROUND_COLOR: '#F6FAFD',
+    PRIMARY_COLOR: '#3084FE',
+    INPUT_COLOR: '#EEF3F4',
+    WHITE_COLOR: '#fff',
+    TASK_COLORS: ['#FFC675', '#A4ABFF', '#8ED29E'],
+    DISCARD_COLOR: '#ED5E69',
+    DONE_COLOR: '#419B45'
+}
